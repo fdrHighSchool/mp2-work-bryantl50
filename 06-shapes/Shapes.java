@@ -47,4 +47,4 @@ class Shapes {
 //end class
 
 // rectangle, two outputs 
-// triangle, one ouptut 
+// triangle, one output 
