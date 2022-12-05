@@ -1,4 +1,4 @@
-class Main {
+class Shapes {
     public static void main(String[] args) {
         System.out.println("Shapes");
         square(5);
